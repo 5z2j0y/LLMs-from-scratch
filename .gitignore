@@ -114,6 +114,7 @@ ch0?/0?_user_interface/.chainlit/
 ch0?/0?_user_interface/chainlit.md
 ch0?/0?_user_interface/.files
 *.lock
+gpt2/
 
 # Temporary OS-related files
 .DS_Store
